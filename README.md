@@ -1,6 +1,6 @@
 # Hello there 👋
  
-## My name is Vladyslav Lytosh and I'm a game developer 🎮
+## My name is Vladyslav Lytosh and I'm a game developer from Ukraine 🎮
 
 
 ### 🔧Languages and tools
