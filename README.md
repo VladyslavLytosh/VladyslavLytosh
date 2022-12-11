@@ -16,9 +16,10 @@
 <br />
 
 #
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=VladyslavLytosh&theme=dark"/>
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VladyslavLytosh&show_icons=true&locale=en&layout=compact&theme=dark" alt="stats" />
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VladyslavLytosh&show_icons=true&locale=en&layout=compact&theme=dark" alt="stats"/>
 </p>
 
 
