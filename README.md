@@ -1,10 +1,10 @@
-## Hello there 👋
+# Hello there 👋
  
-### My name is Vladyslav Lytosh and I'm a game developer 🎮
+## My name is Vladyslav Lytosh and I'm a game developer 🎮
 
 ---
 
-#### 🔧Languages and tools
+### 🔧Languages and tools
 <img align="left" alt="Java" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="Java" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="Java" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
