@@ -18,7 +18,7 @@
 #
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vladyslav-lytosh&show_icons=true&locale=en&layout=compact" alt="stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vladyslav-Lytosh&show_icons=true&locale=en&layout=compact" alt="stats" />
 </p>
 
 
