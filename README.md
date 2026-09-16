@@ -1,7 +1,6 @@
 # Hello there 👋
  
-### My name is Vladyslav Lytosh and I'm a .NET Full-stack developer from Ukraine <img src="https://storage.googleapis.com/multi-static-content/thumbs/artage-io-thumb-936ac0f7174a1cdff422f7278a8c7a5d.svg" height="20">
-
+### My name is Vladyslav Lytosh and I'm a .NET Full-stack developer
 Contact: vllitosh46@gmail.com
 
 ---
